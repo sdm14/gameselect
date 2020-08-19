@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/gameselect/static/css/main.13bcac74.chunk.css",
+    "main.js": "/gameselect/static/js/main.007ef305.chunk.js",
+    "main.js.map": "/gameselect/static/js/main.007ef305.chunk.js.map",
+    "runtime-main.js": "/gameselect/static/js/runtime-main.1c4b4e1c.js",
+    "runtime-main.js.map": "/gameselect/static/js/runtime-main.1c4b4e1c.js.map",
+    "static/js/2.ac33ad39.chunk.js": "/gameselect/static/js/2.ac33ad39.chunk.js",
+    "static/js/2.ac33ad39.chunk.js.map": "/gameselect/static/js/2.ac33ad39.chunk.js.map",
+    "index.html": "/gameselect/index.html",
+    "precache-manifest.d020277982119e8b2a8e4340d814f594.js": "/gameselect/precache-manifest.d020277982119e8b2a8e4340d814f594.js",
+    "service-worker.js": "/gameselect/service-worker.js",
+    "static/css/main.13bcac74.chunk.css.map": "/gameselect/static/css/main.13bcac74.chunk.css.map",
+    "static/js/2.ac33ad39.chunk.js.LICENSE.txt": "/gameselect/static/js/2.ac33ad39.chunk.js.LICENSE.txt",
+    "static/media/ari.png": "/gameselect/static/media/ari.529366d0.png",
+    "static/media/index.css": "/gameselect/static/media/bg.cbaea9ec.jpg",
+    "static/media/gazinski.png": "/gameselect/static/media/gazinski.194ac6a6.png",
+    "static/media/kabella.png": "/gameselect/static/media/kabella.00d15043.png",
+    "static/media/klasson.png": "/gameselect/static/media/klasson.243915a0.png",
+    "static/media/logo.png": "/gameselect/static/media/logo.5f6bf064.png",
+    "static/media/safonov.png": "/gameselect/static/media/safonov.93a8d54f.png",
+    "static/media/shapi.png": "/gameselect/static/media/shapi.e630fe0d.png",
+    "static/media/utkin.png": "/gameselect/static/media/utkin.4714fd65.png",
+    "static/media/wanderson.png": "/gameselect/static/media/wanderson.9288ce07.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1c4b4e1c.js",
+    "static/js/2.ac33ad39.chunk.js",
+    "static/css/main.13bcac74.chunk.css",
+    "static/js/main.007ef305.chunk.js"
+  ]
+}
